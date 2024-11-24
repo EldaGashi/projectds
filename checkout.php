@@ -16,7 +16,7 @@ if(isset($_POST['order_btn'])){
    $number = $_POST['number'];
    $email = mysqli_real_escape_string($conn, $_POST['email']);
    $method = mysqli_real_escape_string($conn, $_POST['method']);
-   $address = mysqli_real_escape_string($conn, 'flat no. '. $_POST['flat'].', '. $_POST['street'].', '. $_POST['city'].', '. $_POST['country'].' - '. $_POST['pin_code']);
+   $address = mysqli_real_escape_string($conn,', '. $_POST['street'].', '. $_POST['city'].', '. $_POST['country'].' - '. $_POST['pin_code']);
    $placed_on = date('d-M-Y');
 
    $cart_total = 0;
@@ -121,20 +121,20 @@ if(isset($_POST['order_btn'])){
             </select>
          </div>
          <div class="inputBox">
-            <span>address line 01 :</span>
+            <span>house no.:</span>
             <input type="number" min="0" name="house no." required placeholder="e.g. house no.103 ">
          </div>
          <div class="inputBox">
             <span>address line 01 :</span>
-            <input type="text" name="street" required placeholder="e.g. street name">
+            <input type="text" name="street" required placeholder="e.g. street number">
          </div>
          <div class="inputBox">
             <span>city :</span>
             <input type="text" name="city" required placeholder="e.g. Pristina">
          </div>
          <div class="inputBox">
-            <span>state :</span>
-            <input type="text" name="Continents" required placeholder="e.g. Europe">
+            <span>continent :</span>
+            <input type="text" name="continent" required placeholder="e.g. Europe">
          </div>
          <div class="inputBox">
             <span>country :</span>
@@ -160,7 +160,7 @@ if(isset($_POST['order_btn'])){
 
 <?php include 'footer.php'; ?>
 
-<!-- custom js file link  -->
+
 <script src="js/script.js"></script>
 
 </body>

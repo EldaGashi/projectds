@@ -45,8 +45,8 @@ if(!isset($user_id)){
 
       <div class="content">
          <h3>why choose us?</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet voluptatibus aut hic molestias, reiciendis natus fuga, cumque excepturi veniam ratione iure. Excepturi fugiat placeat iusto facere id officia assumenda temporibus?</p>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>"Choose our bookstore for unbeatable customer service, a diverse collection tailored to every reader, and a passion for connecting people with the perfect book."</p>
+         <p>Choose our bookstore because we create a haven for readers, offering a thoughtfully selection across genres, cozy reading nooks, and events that bring stories to life. </p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
@@ -62,7 +62,7 @@ if(!isset($user_id)){
 
       <div class="box">
          <img src="images/pic-1.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>Very good website</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -75,7 +75,7 @@ if(!isset($user_id)){
 
       <div class="box">
          <img src="images/pic-2.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>I loved it so muchh</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -83,12 +83,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Mia smith</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-3.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>So happy to have found this place</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -96,12 +96,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>chad smith</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-4.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>This is soo amazingg</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -109,12 +109,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Regina genera</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-5.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>I think its fabulos</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -122,12 +122,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>meliv gizmo</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-6.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <p>The plcae that feels like home</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -135,7 +135,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>martha jones</h3>
       </div>
 
    </div>
@@ -156,7 +156,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>collen hoover</h3>
       </div>
 
       <div class="box">
@@ -167,7 +167,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>matenisa jones</h3>
       </div>
 
       <div class="box">
@@ -178,7 +178,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>jones smith</h3>
       </div>
 
       <div class="box">
@@ -189,7 +189,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>harley gomez</h3>
       </div>
 
       <div class="box">
@@ -200,7 +200,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>justin vigeta</h3>
       </div>
 
       <div class="box">
@@ -211,7 +211,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>hailey biber</h3>
       </div>
 
    </div>

@@ -52,7 +52,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>Hand Picked Book to your door.</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quod? Reiciendis ut porro iste totam.</p>
+      <p>Where stories come alive in a warm, inviting space crafted for every book lover.</p>
       <a href="about.php" class="white-btn">discover more</a>
    </div>
 
@@ -103,7 +103,7 @@ if(isset($_POST['add_to_cart'])){
 
       <div class="content">
          <h3>about us</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>At Cozy Chapters, we’re more than a bookstore we’re a haven for readers and a community for story lovers.</p>
          <a href="about.php" class="btn">read more</a>
       </div>
 
@@ -115,7 +115,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>have any questions?</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet ullam voluptatibus?</p>
+      <p> Our carefully curated collection, welcoming atmosphere, and passion for literature make every visit a unique journey</p>
       <a href="contact.php" class="white-btn">contact us</a>
    </div>
 
@@ -127,7 +127,7 @@ if(isset($_POST['add_to_cart'])){
 
 <?php include 'footer.php'; ?>
 
-<!-- custom js file link  -->
+
 <script src="js/script.js"></script>
 
 </body>
