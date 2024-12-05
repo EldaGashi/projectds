@@ -156,7 +156,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>collen hoover</h3>
+         <h3>Milaim Zeka</h3>
       </div>
 
       <div class="box">
@@ -167,7 +167,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>matenisa jones</h3>
+         <h3>Ganimete Musliu</h3>
       </div>
 
       <div class="box">
@@ -178,7 +178,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>jones smith</h3>
+         <h3>Edona James</h3>
       </div>
 
       <div class="box">
@@ -189,7 +189,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>harley gomez</h3>
+         <h3>Gani Germia</h3>
       </div>
 
       <div class="box">
@@ -200,7 +200,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>justin vigeta</h3>
+         <h3>Linda Morina</h3>
       </div>
 
       <div class="box">
@@ -211,7 +211,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>hailey biber</h3>
+         <h3>Lugati</h3>
       </div>
 
    </div>
