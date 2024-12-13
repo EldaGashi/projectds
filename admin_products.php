@@ -27,12 +27,11 @@ if (isset($_POST['add_product'])) {
         if ($image_size > 2000000) {
             $message[] = 'Image size is too large';
         } else {
-            // Ensure the uploaded_img directory exists
+         
             if (!is_dir('uploaded_img')) {
                 mkdir('uploaded_img', 0777, true);
             }
 
-            // Insert product into the database
             $add_product_query = mysqli_query($conn, "INSERT INTO products(name, price, image) VALUES('$name', '$price', '$image')") or die('query failed');
 
             if ($add_product_query) {
@@ -99,7 +98,7 @@ if (isset($_POST['update_product'])) {
 
 <?php include 'admin_header.php'; ?>
 
-<!-- Add Product Section -->
+
 <section class="add-products">
    <h1 class="title">Shop Products</h1>
    <form action="" method="post" enctype="multipart/form-data">
@@ -135,7 +134,7 @@ if (isset($_POST['update_product'])) {
    </div>
 </section>
 
-<!-- Edit Product Form -->
+
 <section class="edit-product-form">
    <?php
       if (isset($_GET['update'])) {
